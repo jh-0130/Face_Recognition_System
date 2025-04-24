@@ -1,5 +1,8 @@
-streamlit==1.13.0
-opencv-python-headless==4.5.5.64
-tensorflow>=2.8.0
-numpy>=1.19.5
-pandas==1.5.3
+streamlit==1.22.0
+opencv-python==4.7.0.72
+tensorflow==2.12.0
+dlib==19.24.0
+pillow==9.5.0
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.2.2
