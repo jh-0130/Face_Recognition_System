@@ -8,4 +8,5 @@ seaborn>=0.11.2
 tensorflow>=2.8.0
 streamlit>=1.10.0
 pillow>=9.0.1
+--find-links=https://pypi.org/simple/
 dlib==19.22.0
